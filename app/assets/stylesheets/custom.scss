@@ -6,7 +6,13 @@ body {
   font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
-
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #dcdcdc;
+}
 
 .posts-wrapper {
   padding-top: 40px;
